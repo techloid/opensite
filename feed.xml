@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>techloid</title>
+    <link href="file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/feed.xml" rel="self" />
+    <link href="file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview" />
+    <updated>2017-08-14T18:34:32+05:30</updated>
+    <author>
+        <name>Techloid</name>
+    </author>
+    <id>file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Techloid</name>
+        </author>
+        <link href="file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/test.html"/>
+        <id>file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/test.html</id>
+
+        <updated>2017-08-14T18:34:07+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Test
+            ]]>
+        </content>
+    </entry>
+</feed>

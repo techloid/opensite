@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "techloid",
+    "description": "",
+    "home_page_url": "file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview",
+    "feed_url": "file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Techloid"
+    },
+    "items": [
+        {
+            "id": "file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/test.html",
+            "url": "file://C:\Users\Wasim\Documents\Publii\sites\techloid\preview/test.html",
+            "title": "Test",
+            "content_html": "Test",
+            "author": {
+                "name": "Techloid"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-14T18:34:32+05:30",
+            "date_modified": "2017-08-14T18:34:07+05:30"
+        }
+    ]
+}
